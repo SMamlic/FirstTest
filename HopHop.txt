@@ -2,3 +2,4 @@ First test to check myself.
 HopHop second change, from site to local, pull option.
 HopHop 3rd change, for new branch example.
 Trying to merge new branch to master.
+Git fetch option. 
